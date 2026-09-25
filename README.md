@@ -12,7 +12,7 @@ I am a graduate student and software developer based in Vaasa, Finland, speciali
 
 ## 🛠️ Tech Stack & Skills
 
-*   **Languages:** Python, [Add your other languages: e.g., JavaScript, SQL, Java]
+*   **Languages:** Python, JavaScripts, C programming, Java 
 *   **Domains:** Artificial Intelligence, Data Engineering, Full-Stack Development
 *   **Tools & Frameworks:** [Add your frameworks: e.g., React, Node.js, TensorFlow, PyTorch, Docker]
 

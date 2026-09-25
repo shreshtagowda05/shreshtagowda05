@@ -39,6 +39,6 @@ I am a graduate student and software developer based in Vaasa, Finland, speciali
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Insert your LinkedIn URL]
+- **LinkedIn:** www.linkedin.com/in/shreshtakg
 - **Portfolio:** [Insert your Portfolio/Website URL if applicable]
-- **Email:** [Insert your professional email address]
+- **Email:** shreshta0505@gmail.com

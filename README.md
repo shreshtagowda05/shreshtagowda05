@@ -1,27 +1,26 @@
-# Hi there, I'm Shreshta Kurki Goudar 👋
-
-I am a graduate student and software developer based in Vaasa, Finland, specializing in Artificial Intelligence and Data Engineering. I am passionate about leveraging AI to build intelligent solutions and have a strong interest in full-stack development and data-driven applications. 
-
-## 🚀 About Me
-
-- 🎓 **Currently studying:** Master of Science in Computing Science (AI & Data Engineering) at the University of Vaasa.
-- 💻 **Interests:** Artificial Intelligence, Data Engineering, and Full-Stack Web Development.
-- 🛠 **Recent Work:** Exploring full-stack architecture (including healthcare and appointment booking platforms) and applying AI through Python. 
-- 🌱 **Currently learning:** Advanced AI methodologies and data pipeline optimization.
-- 🤝 **Community:** Active member of learning and student networking platforms like Superprof and Goin' Connect.
-
 ## 🛠️ Tech Stack & Skills
 
-*   **Languages:** Python, JavaScripts, C programming, Java 
-*   **Domains:** Artificial Intelligence, Data Engineering, Full-Stack Development
-*   **Tools & Frameworks:** [Add your frameworks: e.g., React, Node.js, TensorFlow, PyTorch, Docker]
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
 
-## 📫 How to Reach Me
+### AI & Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
-- **LinkedIn:** [Insert your LinkedIn URL]
-- **Portfolio:** [Insert your Portfolio/Website URL if applicable]
-- **Email:** [Insert your professional email address]
-
-<!--
-You can copy and paste this code directly into the editor shown in image_0ed544.jpg[cite: 1]. Be sure to fill in the bracketed placeholders with your specific technical skills and contact links before committing the changes.
--->
+### Full-Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>

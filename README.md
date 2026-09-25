@@ -1,3 +1,15 @@
+# Hi there, I'm Shreshta Kurki Goudar 👋
+
+I am a graduate student and software developer based in Vaasa, Finland, specializing in Artificial Intelligence and Data Engineering. I am passionate about leveraging AI to build intelligent solutions and have a strong interest in full-stack development and data-driven applications. 
+
+## 🚀 About Me
+
+- 🎓 **Currently studying:** Master of Science in Computing Science (AI & Data Engineering) at the University of Vaasa.
+- 💻 **Interests:** Artificial Intelligence, Data Engineering, and Full-Stack Web Development.
+- 🛠 **Recent Work:** Exploring full-stack architecture (including healthcare and appointment booking platforms) and applying AI through Python. 
+- 🌱 **Currently learning:** Advanced AI methodologies and data pipeline optimization.
+- 🤝 **Community:** Active member of learning and student networking platforms like Superprof and Goin' Connect.
+
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
@@ -24,3 +36,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Insert your LinkedIn URL]
+- **Portfolio:** [Insert your Portfolio/Website URL if applicable]
+- **Email:** [Insert your professional email address]

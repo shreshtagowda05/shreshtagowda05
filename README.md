@@ -1,6 +1,6 @@
 # Hi there, I'm Shreshta Kurki Goudar 👋
 
-I am a graduate student and software developer based in Vaasa, Finland, specializing in Artificial Intelligence and Data Engineering. I am passionate about leveraging AI to build intelligent solutions and have a strong interest in full-stack development and data-driven applications. 
+I am a graduate student and software developer based in, Finland, specializing in Artificial Intelligence and Data Engineering. I am passionate about leveraging AI to build intelligent solutions and have a strong interest in full-stack development and data-driven applications. 
 
 ## 🚀 About Me
 
